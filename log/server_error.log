@@ -1,0 +1,13 @@
+[newbee_mall]2024/04/17 - 14:16:26.690	[31merror[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:26	accept tcp [::]:8888: use of closed network connection
+[newbee_mall]2024/04/17 - 14:28:01.294	[31merror[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:26	accept tcp [::]:8131: use of closed network connection
+[newbee_mall]2024/04/17 - 14:28:17.109	[31merror[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:26	net.Listen error: listen tcp :8131: bind: address already in use
+[newbee_mall]2024/04/17 - 14:38:44.276	[31merror[0m	/Users/mac/Desktop/a/newbee-mall-api-go/api/v1/mall/mall_index.go:18	轮播图获取失败Error 1146: Table 'shoping.tb_newbee_mall_carousel' doesn't exist	{"error": "Error 1146: Table 'shoping.tb_newbee_mall_carousel' doesn't exist"}
+[newbee_mall]2024/04/17 - 14:38:44.289	[31merror[0m	/Users/mac/Desktop/a/newbee-mall-api-go/api/v1/mall/mall_index.go:23	热销商品获取失败Error 1146: Table 'shoping.tb_newbee_mall_index_config' doesn't exist	{"error": "Error 1146: Table 'shoping.tb_newbee_mall_index_config' doesn't exist"}
+[newbee_mall]2024/04/17 - 14:38:44.308	[31merror[0m	/Users/mac/Desktop/a/newbee-mall-api-go/api/v1/mall/mall_index.go:28	新品获取失败Error 1146: Table 'shoping.tb_newbee_mall_index_config' doesn't exist	{"error": "Error 1146: Table 'shoping.tb_newbee_mall_index_config' doesn't exist"}
+[newbee_mall]2024/04/17 - 14:38:44.332	[31merror[0m	/Users/mac/Desktop/a/newbee-mall-api-go/api/v1/mall/mall_index.go:33	推荐商品获取失败Error 1146: Table 'shoping.tb_newbee_mall_index_config' doesn't exist	{"error": "Error 1146: Table 'shoping.tb_newbee_mall_index_config' doesn't exist"}
+[newbee_mall]2024/04/17 - 15:49:44.309	[31merror[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:26	accept tcp [::]:8080: use of closed network connection
+[newbee_mall]2024/04/17 - 15:49:48.576	[31merror[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:26	net.Listen error: listen tcp :8131: bind: address already in use
+[newbee_mall]2024/04/17 - 15:49:58.854	[31merror[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:26	net.Listen error: listen tcp :8131: bind: address already in use
+[newbee_mall]2024/04/17 - 15:56:57.174	[31merror[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:26	accept tcp [::]:8132: use of closed network connection
+[newbee_mall]2024/04/17 - 16:05:23.333	[31merror[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:26	accept tcp [::]:8132: use of closed network connection
+[newbee_mall]2024/04/17 - 16:22:58.608	[31merror[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:26	accept tcp [::]:8132: use of closed network connection

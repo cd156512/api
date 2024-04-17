@@ -1,0 +1,40 @@
+[newbee_mall]2024/04/17 - 14:08:33.007	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:15	use middleware logger
+[newbee_mall]2024/04/17 - 14:08:33.008	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:18	use middleware cors
+[newbee_mall]2024/04/17 - 14:08:33.008	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:53	router register success
+[newbee_mall]2024/04/17 - 14:08:33.008	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:24	server run success on 	{"address": ":8888"}
+[newbee_mall]2024/04/17 - 14:16:32.877	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:15	use middleware logger
+[newbee_mall]2024/04/17 - 14:16:32.877	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:18	use middleware cors
+[newbee_mall]2024/04/17 - 14:16:32.878	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:53	router register success
+[newbee_mall]2024/04/17 - 14:16:32.879	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:24	server run success on 	{"address": ":8131"}
+[newbee_mall]2024/04/17 - 14:28:01.290	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:15	use middleware logger
+[newbee_mall]2024/04/17 - 14:28:01.291	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:18	use middleware cors
+[newbee_mall]2024/04/17 - 14:28:01.292	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:53	router register success
+[newbee_mall]2024/04/17 - 14:28:01.292	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:24	server run success on 	{"address": ":8131"}
+[newbee_mall]2024/04/17 - 14:28:17.107	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:15	use middleware logger
+[newbee_mall]2024/04/17 - 14:28:17.107	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:18	use middleware cors
+[newbee_mall]2024/04/17 - 14:28:17.108	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:53	router register success
+[newbee_mall]2024/04/17 - 14:28:17.108	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:24	server run success on 	{"address": ":8131"}
+[newbee_mall]2024/04/17 - 15:31:06.452	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:15	use middleware logger
+[newbee_mall]2024/04/17 - 15:31:06.453	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:18	use middleware cors
+[newbee_mall]2024/04/17 - 15:31:06.453	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:53	router register success
+[newbee_mall]2024/04/17 - 15:31:06.454	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:24	server run success on 	{"address": ":8080"}
+[newbee_mall]2024/04/17 - 15:49:48.575	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:15	use middleware logger
+[newbee_mall]2024/04/17 - 15:49:48.575	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:18	use middleware cors
+[newbee_mall]2024/04/17 - 15:49:48.576	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:53	router register success
+[newbee_mall]2024/04/17 - 15:49:48.576	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:24	server run success on 	{"address": ":8131"}
+[newbee_mall]2024/04/17 - 15:49:58.840	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:15	use middleware logger
+[newbee_mall]2024/04/17 - 15:49:58.841	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:18	use middleware cors
+[newbee_mall]2024/04/17 - 15:49:58.853	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:53	router register success
+[newbee_mall]2024/04/17 - 15:49:58.853	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:24	server run success on 	{"address": ":8131"}
+[newbee_mall]2024/04/17 - 15:50:04.430	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:15	use middleware logger
+[newbee_mall]2024/04/17 - 15:50:04.430	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:18	use middleware cors
+[newbee_mall]2024/04/17 - 15:50:04.431	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:53	router register success
+[newbee_mall]2024/04/17 - 15:50:04.431	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:24	server run success on 	{"address": ":8132"}
+[newbee_mall]2024/04/17 - 16:05:20.514	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:15	use middleware logger
+[newbee_mall]2024/04/17 - 16:05:20.515	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:18	use middleware cors
+[newbee_mall]2024/04/17 - 16:05:20.516	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:53	router register success
+[newbee_mall]2024/04/17 - 16:05:20.516	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:24	server run success on 	{"address": ":8132"}
+[newbee_mall]2024/04/17 - 16:22:54.241	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:15	use middleware logger
+[newbee_mall]2024/04/17 - 16:22:54.243	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:18	use middleware cors
+[newbee_mall]2024/04/17 - 16:22:54.243	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/initialize/router.go:53	router register success
+[newbee_mall]2024/04/17 - 16:22:54.244	[34minfo[0m	/Users/mac/Desktop/a/newbee-mall-api-go/core/server.go:24	server run success on 	{"address": ":8132"}
